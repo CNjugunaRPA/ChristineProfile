@@ -5,15 +5,13 @@ body{
     width: 800px;
     border: honeydew;
     padding: 100px;
-    img{
+    float:left ; img{
         width: 400px;}
    
         a{
             padding: 50px;
         }
 
-
-
     }
-    
+   body 
 
