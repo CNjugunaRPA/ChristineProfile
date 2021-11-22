@@ -1,0 +1,109 @@
+[33mcommit 72e8d21fa7993e6a6ebddeb608db5a3be4c1acfb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: CNjuguna <christine.njuguna@student.moringaschool.com>
+Date:   Sun Nov 21 21:48:52 2021 +0300
+
+    It will upload local repository content to a remote repository
+
+[33mcommit 8204d08d1ff8b6ab665a0e32b58e004927e1854a[m
+Author: CNjuguna <christine.njuguna@student.moringaschool.com>
+Date:   Fri Nov 12 22:09:50 2021 +0300
+
+    It will style the body element
+
+[33mcommit c826e0e1f7b0218768e0b30bc8db1075e2a5dc09[m
+Author: CNjuguna <christine.njuguna@student.moringaschool.com>
+Date:   Fri Nov 12 21:22:48 2021 +0300
+
+    It will add Project.html images and active links to the projects
+
+[33mcommit d0c497ca4d590fdee4668dc002dfc5d36e2d7074[m
+Author: CNjuguna <christine.njuguna@student.moringaschool.com>
+Date:   Fri Nov 12 20:22:13 2021 +0300
+
+    It will creaty a Projects.css cascading style sheet
+
+[33mcommit 7d38286d7381d9e8555b396e2919d68ad8fba573[m
+Author: CNjuguna <christine.njuguna@student.moringaschool.com>
+Date:   Fri Nov 12 20:13:20 2021 +0300
+
+    It will add PROJECTS.html file
+
+[33mcommit 80d21eee920dd535f802b77f8185db265640e2b8[m
+Author: CNjuguna <christine.njuguna@student.moringaschool.com>
+Date:   Fri Nov 12 19:45:11 2021 +0300
+
+    It will edit the background content color and color
+
+[33mcommit a9e2ed2b22f742feff3ed380060fc5716ded8301[m
+Author: CNjuguna <christine.njuguna@student.moringaschool.com>
+Date:   Thu Nov 11 20:09:08 2021 +0300
+
+    It will create a Current Interests/Skills DIV with an unordered list of the skills
+
+[33mcommit b065d0db86bf99396fc09a41dd4468d6ef534fef[m
+Author: CNjuguna <christine.njuguna@student.moringaschool.com>
+Date:   Thu Nov 11 19:58:27 2021 +0300
+
+    It will add an About me section with a Background paragraph
+
+[33mcommit e130e0404217686fbede5c15ab474d1c04333eed[m
+Author: CNjuguna <christine.njuguna@student.moringaschool.com>
+Date:   Thu Nov 11 19:38:55 2021 +0300
+
+    It will create a main section in the body and add an image from LinkedIn Profile photo
+
+[33mcommit ede21980da57716a938dd89eef7f4be8b49ee50e[m
+Author: CNjuguna <christine.njuguna@student.moringaschool.com>
+Date:   Thu Nov 11 19:09:20 2021 +0300
+
+    It will create a navigation tool in the body
+
+[33mcommit 41ee393cf89f261bd733fca270d544062556d27a[m
+Author: CNjuguna <christine.njuguna@student.moringaschool.com>
+Date:   Thu Nov 11 18:55:31 2021 +0300
+
+    It will name the title of the html document and link the style sheet
+
+[33mcommit afe377629385d45167e1b07bc402f60ba8de3778[m
+Author: CNjuguna <christine.njuguna@student.moringaschool.com>
+Date:   Thu Nov 11 18:09:59 2021 +0300
+
+    It will create a Cascading Style Sheet named Styles.css
+
+[33mcommit 63bd101b16e1a58dd93a23a0415110b87098cc27[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: CNjugunaRPA <93665872+CNjugunaRPA@users.noreply.github.com>
+Date:   Thu Nov 11 17:17:26 2021 +0300
+
+    Create README.md
+    
+    It will Create README.md
+
+[33mcommit e65bfb8508b0bef156a594e6a2a82030cf427f9a[m
+Author: CNjuguna <christine.njuguna@student.moringaschool.com>
+Date:   Thu Nov 11 15:17:06 2021 +0300
+
+    It will add the remote ChristineProfile to the project
+
+[33mcommit 3abe0c032b79d004db5370a2f6fdda49aa2f9cff[m
+Author: CNjuguna <christine.njuguna@student.moringaschool.com>
+Date:   Thu Nov 11 14:43:55 2021 +0300
+
+    It will create a html file for the project
+
+[33mcommit 22e788943c1ef599e35bef1c4f017413883e3a44[m
+Author: CNjuguna <christine.njuguna@student.moringaschool.com>
+Date:   Fri Nov 5 19:39:23 2021 +0300
+
+    It will create our Navigation Elements
+
+[33mcommit ccbdd4c4e500742a2156dd6b9cc771de493c93f0[m
+Author: CNjuguna <christine.njuguna@student.moringaschool.com>
+Date:   Fri Nov 5 18:42:38 2021 +0300
+
+    It will create styles.css
+
+[33mcommit a69cf0abf15b82e0d15d9cd18f21f052b0d593c0[m
+Author: CNjuguna <christine.njuguna@student.moringaschool.com>
+Date:   Fri Nov 5 18:29:27 2021 +0300
+
+    It will create Christine Njuguna.html
