@@ -4,7 +4,7 @@
 ## Description
 My application's purpose is to showcase the landing page for my programming portfolio, on beginning my journey toward becoming a developer. Other users beginning their 
 programming journeys can find my application useful in launching their journeys as well. Open the below link on any browser 
-https://github.com/CNjugunaRPA/ChristineProfile
+https://cnjugunarpa.github.io/ChristineProfile
 ## Setup/Installation Requirements
 * Install any Web browser
 * Ensure you have internet connection
