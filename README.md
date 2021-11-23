@@ -21,5 +21,5 @@ HTML and CSS (Bootstrap Framework)
 ## Support and contact details
 If there are any issues or concerns, contact christine.njuguna@gmail.com
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*MIT License*
 Copyright (c) 2021 **CNjuguna**
